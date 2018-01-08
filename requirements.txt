@@ -3,4 +3,5 @@ ipdb
 
 numpy
 pandas
+scipy
 matplotlib
